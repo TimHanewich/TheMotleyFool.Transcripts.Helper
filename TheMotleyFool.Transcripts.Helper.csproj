@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Tim Hanewich</Authors>
+    <Description>Helper library for TheMotleyFool.Transcripts.  Includes sentiment ranking and more.</Description>
+    <RepositoryUrl>https://github.com/TimHanewich/TheMotleyFool.Transcripts.Helper</RepositoryUrl>
+    <PackageTags>the motley fool,transcripts,investing,stocks,equities,earnings calls</PackageTags>
+    <FileVersion>0.0.0.0</FileVersion>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+    <PackageIcon>TMF_Logo.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TheMotleyFool.Transcripts" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="TMF_Logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

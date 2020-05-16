@@ -1,0 +1,9 @@
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\bin\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.deps.json
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\bin\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.dll
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\bin\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.pdb
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.csprojAssemblyReference.cache
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.csproj.CoreCompileInputs.cache
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.AssemblyInfoInputs.cache
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.AssemblyInfo.cs
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.dll
+C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\obj\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.pdb
