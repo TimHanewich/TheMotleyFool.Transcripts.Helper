@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Helper library for TheMotleyFool.Transcripts.  Includes sentiment ranking and mor" +
     "e.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheMotleyFool.Transcripts.Helper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheMotleyFool.Transcripts.Helper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.0.0")]

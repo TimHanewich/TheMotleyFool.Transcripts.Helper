@@ -149,5 +149,21 @@ namespace TheMotleyFool.Transcripts.Helper
                 value_ = value;
             }
         }
+    
+        public static CallParticipant WhoSaid(this Transcript trans, string quote)
+        {
+            foreach (Remark r in trans.Remarks)
+            {
+                foreach (string s in r.SpokenRemarks)
+                {
+                    if (s.ToLower().Contains(quote.ToLower()))
+                    {
+                        return r.Speaker;
+                    }
+                }
+            }
+
+            throw new Exception("Unable to find speaker of supplied quote '" + quote + "'.");
+        }
     }
 }

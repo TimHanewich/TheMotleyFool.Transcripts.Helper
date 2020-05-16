@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "TheMotleyFool.Transcripts.Helper/1.0.0": {
+      "TheMotleyFool.Transcripts.Helper/2": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "TheMotleyFool.Transcripts": "3.0.0"
@@ -33,7 +33,7 @@
     }
   },
   "libraries": {
-    "TheMotleyFool.Transcripts.Helper/1.0.0": {
+    "TheMotleyFool.Transcripts.Helper/2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
