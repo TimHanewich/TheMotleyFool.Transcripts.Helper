@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TheMotleyFool.Transcripts.Helper</id>
+    <version>3.0.0</version>
+    <authors>Tim Hanewich</authors>
+    <owners>Tim Hanewich</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>TMF_Logo.png</icon>
+    <description>Helper library for TheMotleyFool.Transcripts.  Includes sentiment ranking and more.</description>
+    <tags>the motley fool,transcripts,investing,stocks,equities,earnings calls</tags>
+    <repository url="https://github.com/TimHanewich/TheMotleyFool.Transcripts.Helper" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="TheMotleyFool.Transcripts" version="3.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\bin\Debug\netstandard2.0\TheMotleyFool.Transcripts.Helper.dll" target="lib\netstandard2.0\TheMotleyFool.Transcripts.Helper.dll" />
+    <file src="C:\Users\TaHan\Downloads\TheMotleyFool.Transcripts.Helper\TMF_Logo.png" target="TMF_Logo.png" />
+  </files>
+</package>

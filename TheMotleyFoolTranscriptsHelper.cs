@@ -165,5 +165,17 @@ namespace TheMotleyFool.Transcripts.Helper
 
             throw new Exception("Unable to find speaker of supplied quote '" + quote + "'.");
         }
+    
+        public static string GetTradingSymbol(this Transcript trans)
+        {
+            int loc1 = trans.Title.LastIndexOf("(");
+            if (loc1 == -1)
+            {
+                throw new Exception("Unable to find symbol from title.");
+            }
+            int loc2 = trans.Title.IndexOf(")", loc1+1);
+            string symbol = trans.Title.Substring(loc1 + 1, loc2 - loc1 - 1);
+            return symbol;
+        }
     }
 }
