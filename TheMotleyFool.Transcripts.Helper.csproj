@@ -9,7 +9,7 @@
     <FileVersion>0.0.0.0</FileVersion>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>
     <PackageIcon>TMF_Logo.png</PackageIcon>
-    <Version>3</Version>
+    <Version>4</Version>
   </PropertyGroup>
 
   <ItemGroup>
